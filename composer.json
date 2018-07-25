@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "classmap": [
+            "./"
+        ]
+    },
+    "require": {
+        "box/spout": "^2.7.2"
+    }
+}
