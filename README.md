@@ -19,4 +19,4 @@ You can run the app on your machine:
 $ php -S localhost:8080
 ```
 
-# Please note that the app will require the csv input file in the root of the project.
+### Please note that the app will require the csv input file in the root of the project.
